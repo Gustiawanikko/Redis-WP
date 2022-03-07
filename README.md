@@ -37,7 +37,7 @@ PONG
 
 #default, Redis berjalan pada port 127.0.0.1:6379
 
-git clone https://github.com/Gustiawanikko/rediswp.git
+git clone https://github.com/Gustiawanikko/Redis-WP.git
 
 #Pasang pada wordpress
 
